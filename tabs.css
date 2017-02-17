@@ -1,0 +1,13 @@
+ nav div {
+   background-color: lightgreen;
+}
+nav div {
+  border-style: solid;
+}
+a {
+  text-decoration: none;
+            color: white;
+}
+a:hover {
+    background-color: pink;
+}
